@@ -15,7 +15,7 @@ namespace HashingAndBST
             Console.WriteLine("***USE CASE 1-To find frequency of words *** ");
             Console.WriteLine("Enter the option");
             int num = Convert.ToInt32(Console.ReadLine());
-            MapNode<string, int> myMapNode = new MapNode<string, int>(6);
+            Frq_Of_Word<string, int> myMapNode = new Frq_Of_Word<string, int>(6);
             switch (num)
             {
                 case 1:
