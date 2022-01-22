@@ -21,7 +21,7 @@ namespace HashingAndBST
 
 
 
-            Console.WriteLine("Enter the option!!!");
+            Console.WriteLine("Enter the option!!!!");
             int num = Convert.ToInt32(Console.ReadLine());
             uc2_BST<int> binarySearchTree = new uc2_BST<int>(56);
             switch (num)
