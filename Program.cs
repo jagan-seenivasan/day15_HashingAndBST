@@ -20,7 +20,7 @@ namespace HashingAndBST
             switch (num)
             {
                 case 1:
-                    string[] words = { "to", "be", "or", "not", "to", "be" };
+                    string[] words = { "to", "be", "or", "not", "to", "be"  };
                     int count = 1;
                     foreach (string i in words)
                     {
