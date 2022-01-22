@@ -100,7 +100,7 @@ namespace HashingAndBST
                     }
                     break;
                 default:
-                    Console.WriteLine("Enter the valid option!!!");
+                    Console.WriteLine("Enter the valid option!!");
                     break;
 
             }
